@@ -1,0 +1,44 @@
+.navbar-default {
+	background-color: orange;
+}
+
+.navbar-header a.navbar-brand {
+	color:black;
+}
+/*main content begin*/
+#main-content h1 {
+	padding-bottom: 20px;
+}
+
+#chicken-tile h3, #beef-tile h3, #sushi-tile h3 {
+	background-color: #4285f4;
+	color: white;
+	margin: 20px auto -1px;
+	padding-bottom: 20px;
+	border: none;
+}
+
+/*#main-content p#back-to-top {
+	height:auto;
+}
+
+#main-content p#back-to-top a {
+	height: auto;
+	background-color: #4285f4;
+	color: white;
+	border: none;
+	font-size: 1.5em;
+}
+*/
+
+div#beef-tile a, div#chicken-tile a, div#sushi-tile a {
+	font-size:1.5em;
+}
+
+#main-content p {
+	height:2000px;
+	background-color: #4285f4;
+	color: white;
+	margin-bottom: -2px;
+}
+/*main content end*/
